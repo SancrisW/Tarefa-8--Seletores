@@ -12,21 +12,21 @@
 
 .q1{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid black;   
 }
 
 .q2{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color: red;  
     border: 1px solid white;   
     border-left: 1px solid black;
 }
-
+/*
 .q3{
     display: block;
     width: 140px;
@@ -42,11 +42,11 @@
     background-color: red;  
     border: 1px solid white; 
 }
-
+*/
 .q5{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;  
     border-right: 1px solid black;
@@ -54,8 +54,8 @@
 
 .q6{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid black;   
 }
@@ -69,8 +69,8 @@
 /* */
 .q7{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;
     border-top: 1px solid black;
@@ -78,40 +78,16 @@
 
 .q8{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color:  rgb(106, 106, 206);  
     border: 1px solid white;   
-}
-
-.q9{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  rgb(106, 106, 206);  
-    border: 1px solid white;   
-}
-
-.q10{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  rgb(106, 106, 206);  
-    border: 1px solid white; 
-}
-
-.q11{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color: rgb(106, 106, 206);  
-    border: 1px solid white;  
 }
 
 .q12{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;   
     border-top: 1px solid black;
@@ -126,48 +102,24 @@
 
 .q13{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;   
 }
 
 .q14{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color: green;  
-    border: 1px solid white;   
-}
-
-.q15{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  green;  
-    border: 1px solid white;   
-}
-
-.q16{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  green;  
-    border: 1px solid white;   
-}
-
-.q17{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  green;  
     border: 1px solid white;   
 }
 
 .q18{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;   
 }
@@ -181,48 +133,24 @@
 
 .q19{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color: red;  
     border: 1px solid white;   
 }
 
 .q20{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color:  rgb(239, 212, 63);  
-    border: 1px solid white;   
-}
-
-.q21{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color: rgb(239, 212, 63);  
-    border: 1px solid white;   
-}
-
-.q22{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color:  rgb(239, 212, 63);  
-    border: 1px solid white;   
-}
-
-.q23{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color: rgb(239, 212, 63);  
     border: 1px solid white;   
 }
 
 .q24{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;   
 }
@@ -237,8 +165,8 @@
 
 .q25{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;   
     background-color: red;  
     border: 1px solid black;  
    
@@ -246,33 +174,17 @@
 
 .q26{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid white;   
     border-left: 1px solid black; 
 }
 
-.q27{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color: red;  
-    border: 1px solid white;   
-}
-
-.q28{
-    display: block;
-    width: 140px;
-    height: 140px;  
-    background-color: red;  
-    border: 1px solid white;   
-}
-
 .q29{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;    
     background-color: red;  
     border: 1px solid white;  
     border-right: 1px solid black; 
@@ -281,8 +193,8 @@
 
 .q30{
     display: block;
-    width: 140px;
-    height: 140px;  
+    width: 200px;
+    height: 200px;  
     background-color: red;  
     border: 1px solid black;   
 }
